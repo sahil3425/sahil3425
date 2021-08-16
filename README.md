@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">A passionate ANDROID APP DEVELOPER AND FRONTEND WEB DEVELOPER from India</h3>
+<h3 align="center">A passionate ANDROID APP DEVELOPER AND  WEB DEVELOPER from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil3425&label=Profile%20views&color=0e75b6&style=flat" alt="sahil3425" /> </p>
 
